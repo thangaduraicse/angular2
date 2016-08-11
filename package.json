@@ -1,7 +1,7 @@
 {
-  "name": "angular2-webpack",
+  "name": "angular2",
   "version": "1.0.0",
-  "description": "My First Angular 2 Webpack TypeScript POC",
+  "description": "My First Angular 2 TypeScript POC",
   "keywords": [
     "Angular 2",
     "Webpack",
