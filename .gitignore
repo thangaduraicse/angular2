@@ -1,0 +1,8 @@
+*.orig
+*.swp
+.DS_Store
+npm-debug.log
+node_modules
+typings
+app/*.js
+app/*.map

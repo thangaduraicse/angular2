@@ -1,0 +1,6 @@
+{
+  "proxy": "http://proxy.cognizant.com:6050",
+  "https-proxy": "http://proxy.cognizant.com:6050",
+  "rejectUnauthorized": false,
+  "registryURL": "http://api.typings.org/"
+}
