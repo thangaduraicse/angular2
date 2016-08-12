@@ -76,6 +76,8 @@ export class AppComponent implements OnInit {
   constructor(private heroService: HeroService) { }
 
   getHeroes = () => this.heroService.getHeroes().then(heroes => this.heroes = heroes);
+  // for slow connection use this
+  // getHeroesSlowly = () => this.heroService.getHeroesSlowly().then(heroes => this.heroes = heroes);
   onSelect = (hero: Hero) => this.selectedHero = hero;
 
   ngOnInit() {
